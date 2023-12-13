@@ -1,0 +1,3 @@
+﻿     Creating library C:\Users\Oisin\Desktop\legit projekt\Release\holiday_dev.lib and object C:\Users\Oisin\Desktop\legit projekt\Release\holiday_dev.exp
+Hooks.obj : error LNK2001: unresolved external symbol "unsigned long Render::Fonts::vermin_vibes" (?vermin_vibes@Fonts@Render@@3KA)
+C:\Users\Oisin\Desktop\legit projekt\Release\holiday_dev.dll : fatal error LNK1120: 1 unresolved externals
